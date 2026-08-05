@@ -93633,5 +93633,16 @@
     "u": "https://tesaurus.kemendikdasmen.go.id/tematis/lema/{{{s}}}",
     "c": "Research",
     "sc": "Reference (words)"
+  },
+  {
+    "s": "Avakot Wiki",
+    "d": "wiki.avakot.org",
+    "t": "avakotw",
+    "ts": [
+      "wavakot"
+    ],
+    "u": "https://wiki.avakot.org/?search={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (specific)"
   }
 ]
